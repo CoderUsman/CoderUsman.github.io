@@ -1,9 +1,12 @@
 # Coder Usman
-You can use the [editor on GitHub](https://github.com/CoderUsman/coderusman.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Skills:
 
-Hello
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- HTML
+- CSS
+- Little JavaScript 
+- Little Python
+- Tailwind CSS
+- SASS
 
 ### Markdown
 
