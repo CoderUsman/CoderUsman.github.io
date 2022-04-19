@@ -1,5 +1,5 @@
 # Coder Usman
-### Skills:
+## Skills:
 
 - HTML
 - CSS
